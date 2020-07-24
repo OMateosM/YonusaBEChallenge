@@ -1,0 +1,14 @@
+The quick brown fox jump over the lazy dog.
+The quick brown fox jump over the lazy cat.
+The quick brown fox jumps over the lazy cat and dog.
+The quick brown fox jumps; cat and dog ran.
+
+The quick brown fox jump over the lazy dog.
+The quick brown fox jump over the lazy dog.
+	The quick brown fox jump over the lazy DOG.
+
+monster! monster!
+There is no monster here.
+
+
+Dog rules.
